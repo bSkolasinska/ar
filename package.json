@@ -1,0 +1,23 @@
+{
+  "name": "ar_business_card",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "./node_modules/.bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valuelogic/ar_business_card.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valuelogic/ar_business_card/issues"
+  },
+  "homepage": "https://github.com/valuelogic/ar_business_card#readme",
+  "dependencies": {
+    "aframe-html-shader": "^0.2.0",
+    "http-server": "^0.11.1"
+  }
+}
